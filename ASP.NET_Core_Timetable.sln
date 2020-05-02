@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP.NET_Core_Timetable", "ASP.NET_Core_Timetable\ASP.NET_Core_Timetable.csproj", "{779718B4-BCC7-4DF1-8F08-032BBB9449A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{779718B4-BCC7-4DF1-8F08-032BBB9449A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{779718B4-BCC7-4DF1-8F08-032BBB9449A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{779718B4-BCC7-4DF1-8F08-032BBB9449A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{779718B4-BCC7-4DF1-8F08-032BBB9449A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DFDD9D0-9A85-43FF-A865-DF3B5618D54B}
+	EndGlobalSection
+EndGlobal
